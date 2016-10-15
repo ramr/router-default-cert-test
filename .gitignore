@@ -1,0 +1,5 @@
+router.crt
+router.csr
+router.key
+router.key.ORIG
+router.pem
